@@ -1,0 +1,26 @@
+{
+  "name": "healthque",
+  "version": "1.0.0",
+  "description": "A health-systems improvement consultant specializing in clinic operations and service delivery.",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "health",
+    "clinic",
+    "operations",
+    "service-delivery"
+  ],
+  "author": "DelazH",
+  "license": "MIT"
+}
